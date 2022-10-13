@@ -1,14 +1,14 @@
 import React from "react";
 export default function Contact() {
 const [name, setName] = React.useState("");
-const [email, setEmail]=Reach.useState("");
+const [email, setEmail]=React.useState("");
 const [message, setMessage]=React.useState("");
     
     function encode (data) {
         return Object.keys(data)
         .map(
             (key)=>encodeURIComponent(key)+ "="
-    +encodeURIComponent(datta[key]) 
+    +encodeURIComponent(data[key]) 
     )
     .join ("&");
     }
