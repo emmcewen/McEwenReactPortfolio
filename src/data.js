@@ -24,11 +24,27 @@ export const projects = [
       link: "https://emmcewen.github.io/Weather_Dashboard/",
     },
     {
-      title: "Throne of Games",
+      title: "TBD",
       subtitle: "React, MERN, State",
       description:
         "An app store to buy and download the newest video games",
       image: "/Assets/ComingSoon.png",
       link: "",
     },
+    {
+        title: "Coming Soon",
+        subtitle: "React, MERN, State",
+        description:
+          "An app store to buy and download the newest video games",
+        image: "/Assets/ComingSoon.png",
+        link: "",
+      },
+      {
+        title: "Throne of Games",
+        subtitle: "React, MERN, State",
+        description:
+          "An app store to buy and download the newest video games",
+        image: "/Assets/ComingSoon.png",
+        link: "",
+      },
   ];
