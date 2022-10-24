@@ -24,27 +24,27 @@ export const projects = [
       link: "https://emmcewen.github.io/Weather_Dashboard/",
     },
     {
-      title: "TBD",
+      title: "Mern Book Serach Engine",
       subtitle: "React, MERN, State",
       description:
-        "An app store to buy and download the newest video games",
-      image: "/Assets/ComingSoon.png",
-      link: "",
+        "An book search engine to help you find a book and add it to an e-commerce to buy",
+      image: "/Assets/MERN BOOKSEARCH.png",
+      link: "https://github.com/emmcewen/BookSearchEngine_MERN",
     },
-    {
-        title: "Coming Soon",
-        subtitle: "React, MERN, State",
-        description:
-          "An app store to buy and download the newest video games",
-        image: "/Assets/ComingSoon.png",
-        link: "",
-      },
       {
         title: "Throne of Games",
         subtitle: "React, MERN, State",
         description:
           "An app store to buy and download the newest video games",
-        image: "/Assets/ComingSoon.png",
-        link: "",
+        image: "/Assets/ThroneOfGames.png",
+        link: "https://game-store-em.herokuapp.com/",
+      },
+      {
+        title: "ECommerce Backend",
+        subtitle: "Express, Node.js, Insomnia",
+        description:
+          "An app store to buy and download the newest video games",
+        image: "/Assets/EcommerceBackend.png",
+        link: "https://github.com/emmcewen/E_Commerce_backend",
       },
   ];
