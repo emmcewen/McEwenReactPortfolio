@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/McEwenReactPortfolio/static/css/main.49234de8.css",
+    "main.js": "/McEwenReactPortfolio/static/js/main.52c21f1e.js",
+    "index.html": "/McEwenReactPortfolio/index.html",
+    "main.49234de8.css.map": "/McEwenReactPortfolio/static/css/main.49234de8.css.map",
+    "main.52c21f1e.js.map": "/McEwenReactPortfolio/static/js/main.52c21f1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49234de8.css",
+    "static/js/main.52c21f1e.js"
+  ]
+}
