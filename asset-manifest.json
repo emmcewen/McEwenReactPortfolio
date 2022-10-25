@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/McEwenReactPortfolio/static/css/main.49234de8.css",
-    "main.js": "/McEwenReactPortfolio/static/js/main.b420b46d.js",
+    "main.js": "/McEwenReactPortfolio/static/js/main.bf04e7e6.js",
     "index.html": "/McEwenReactPortfolio/index.html",
     "main.49234de8.css.map": "/McEwenReactPortfolio/static/css/main.49234de8.css.map",
-    "main.b420b46d.js.map": "/McEwenReactPortfolio/static/js/main.b420b46d.js.map"
+    "main.bf04e7e6.js.map": "/McEwenReactPortfolio/static/js/main.bf04e7e6.js.map"
   },
   "entrypoints": [
     "static/css/main.49234de8.css",
-    "static/js/main.b420b46d.js"
+    "static/js/main.bf04e7e6.js"
   ]
 }
